@@ -1,6 +1,7 @@
 const express = require("express");
 const config = require("./config/app");
 const app = express();
+var faker = require("faker");
 
 require("dotenv").config();
 

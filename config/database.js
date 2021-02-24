@@ -1,3 +1,4 @@
+var faker = require("faker");
 require("dotenv").config();
 
 module.exports = {
